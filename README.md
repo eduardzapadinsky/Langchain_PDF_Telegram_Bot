@@ -1,4 +1,4 @@
-# Langchain PDF Telegram Bot
+![image](https://github.com/eduardzapadinsky/Langchain_PDF_Telegram_Bot/assets/111561866/96e72913-5c16-4a3e-a0fa-cf4244b73d56)# Langchain PDF Telegram Bot
 
 This Telegram bot handles user-uploaded PDF files, extracts text from them, and uses LangChain and OpenAI's model
 for question-answering. It employs two different tools (PDF Search and Google Search) to find answers based
@@ -19,3 +19,5 @@ pip install -r requirements.txt
 4. Run app
 5. Open https://t.me/LangchainPDF_bot
 6. Type /start
+
+![TB](https://github.com/eduardzapadinsky/Langchain_PDF_Telegram_Bot/assets/111561866/38f39156-f31b-422c-af91-28beb988edf1)
