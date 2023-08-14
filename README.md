@@ -15,6 +15,7 @@ PDF Search and Google Search
 1. Download or clone
 2. Install requirements:
 pip install -r requirements.txt
-3. Run app
-4. Open https://t.me/LangchainPDF_bot
-5. Type /start
+3. Use your OPENAI_API_KEY, BOT_TOKEN, GOOGLE_CSE_ID, GOOGLE_API_KEY
+4. Run app
+5. Open https://t.me/LangchainPDF_bot
+6. Type /start
