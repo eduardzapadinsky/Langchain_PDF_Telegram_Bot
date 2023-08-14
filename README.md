@@ -1,4 +1,4 @@
-Langchain PDF Telegram Bot
+# Langchain PDF Telegram Bot
 
 This Telegram bot handles user-uploaded PDF files, extracts text from them, and uses LangChain and OpenAI's model
 for question-answering. It employs two different tools (PDF Search and Google Search) to find answers based
